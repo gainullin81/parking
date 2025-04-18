@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/config/WebConfig.java
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/ParkingManagementApplication.java
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/model/Car.java
@@ -10,3 +11,10 @@
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/repository/ParkingRecordRepository.java
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/controller/CarController.java
 /Users/s2301494/Documents/parking/src/main/java/com/parking/management/service/CarService.java
+=======
+/Users/s2301494/Documents/parking/src/main/java/com/parking/service/ParkingRecordService.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/model/ParkingRecord.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/controller/ParkingRecordController.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/repository/ParkingRecordRepository.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/ParkingSystemApplication.java
+>>>>>>> 3c7817eca8c36e097162a8642d402727b8cec8e8

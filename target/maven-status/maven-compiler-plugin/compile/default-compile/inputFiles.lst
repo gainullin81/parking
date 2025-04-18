@@ -1,0 +1,12 @@
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/config/WebConfig.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/ParkingManagementApplication.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/model/Car.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/controller/ParkingController.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/service/ParkingService.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/model/ParkingRecord.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/model/OwnerType.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/repository/CarRepository.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/model/Photo.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/repository/ParkingRecordRepository.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/controller/CarController.java
+/Users/s2301494/Documents/parking/src/main/java/com/parking/management/service/CarService.java
